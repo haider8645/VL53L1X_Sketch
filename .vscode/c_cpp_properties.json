@@ -5,8 +5,7 @@
             "includePath": [
                 "C:\\Users\\mlodhi\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\**",
                 "C:\\Users\\mlodhi\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.1\\**",
-                "C:\\dev\\sketches\\libraries\\Sparkfun_VL53L1X",
-                "C:\\dev\\sketches\\libraries\\VL53L1X_API"
+                "C:\\dev\\sketches\\libraries\\Sparkfun_VL53L1X"
             ],
             "forcedInclude": [],
             "intelliSenseMode": "msvc-x64",
