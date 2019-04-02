@@ -65,7 +65,7 @@ void setup()
 void loop()
 {
   delay(60);
-  
+
   distance_sensor_arrive.startRanging(); //Write configuration bytes to initiate measurement
   distance_sensor_leave.startRanging();
   int distance_arrive = distance_sensor_arrive.getDistance(); //Get the result of the measurement from the sensor
@@ -78,4 +78,3 @@ void loop()
   Serial.print("Distance Leave(mm): ");
   Serial.println(distance_leave);
 }
-
